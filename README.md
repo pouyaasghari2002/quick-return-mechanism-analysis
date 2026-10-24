@@ -2,7 +2,7 @@
 
 A Machine Dynamics project by **Pouya Asghari**, analyzing a quick-return mechanism and a cam-based alternative using **MATLAB, Adams/View, SAM, and SolidWorks**.
 
-![Quick-return mechanism CAD model](report/figures/rId56.png)
+![Quick-return mechanism CAD model](report/figures/rId31.png)
 
 ## Objectives
 
